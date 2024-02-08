@@ -9,10 +9,10 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
   - Una vez agreguen el nuevo remoto, deben hacer push.
      - En lugar de hacer `git push origin master` deberán usar el nombre del nuevo remoto, es decir: `git push NOMBRE_DE_REFERENCIA_DEL_NUEVO_REMOTO master`
      
-<img src="CSS KITCHEN Nicolas Urrea.png" alt="Imagen Omelette">
-<img src="CSS KITCHEN Nicolas Urrea (2).png" alt="Imagen Omelette">
-<img src="(Flow)Juego Ranas Nicolas Urrea.png" alt="Imagen Omelette">
-<img src="(Grid)Juego Zanahoria Nicolas Urrea.png" alt="Imagen Omelette">
+<img src="CSS KITCHEN Nicolas Urrea.png" alt="KITCHEN">
+<img src="CSS KITCHEN Nicolas Urrea (2).png" alt="KITCHEN">
+<img src="(Flow)Juego Ranas Nicolas Urrea.png" alt="FLOW">
+<img src="(Grid)Juego Zanahoria Nicolas Urrea.png" alt="GRID">
 
 ## Sitio web Desplegado
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
